@@ -66,7 +66,7 @@ Finance-Analysis-PowerBI-Dashboard/
 │   └── Transaction_Analysis.png
 │
 ├── Documentation/
-│   ├── Customer_Detail.md
+│   ├── Customer_Detaile.md
 │   └──Finance_Transaction_Data.md
 │
 ├── README.md
